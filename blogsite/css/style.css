@@ -1,0 +1,21 @@
+
+body {
+  padding-top: 56px;
+  background: whitesmoke;
+  font-family: 'Open Sans', sans-serif;
+}
+/* u_panal imageUpload Start */
+
+/* u_panal imageUpload End */
+/* Start Post */
+#post form .row button{
+  margin-left: auto;
+}
+#post form{
+  margin-left: 200px;
+  margin-right: 200px;
+}
+#post form row{
+  margin-top: 20px;
+}
+/* End Post */
